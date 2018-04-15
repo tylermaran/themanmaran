@@ -1,0 +1,33 @@
+body {
+
+}
+.nav-wrapper {
+    text-align: center;
+}
+
+.text {
+    width: 60%;
+    height: 100%;
+    display: inline-block;
+    float: top;
+    margin-left: 5%;
+    margin-bottom: 5%
+}
+
+.picture {
+    width: 30%;
+    display: inline-block;
+    margin-top:5%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+.subtitle {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    font-weight: bold;
+}
